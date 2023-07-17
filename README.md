@@ -1,2 +1,2 @@
 # NowReadingBookLog
-Get last reading book from BookLog and tweet it.
+Get reading book list from bookLog.jp and tweet it.
